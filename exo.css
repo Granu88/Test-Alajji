@@ -1,9 +1,22 @@
 body {
-  background-color: lightgrey
+  background-color: lightgrey;
+  margin: 0
 }
 h1 {
+  font-family: monospace;
   text-transform: uppercase;
   text-align: center;
   color: lightgrey;
   text-shadow: 0 0 10px black;
+  font-size: 40px;
+}
+img {
+  width: 100%;
+}
+.page-header {
+  width: 100%;
+  height: 350px;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
 }
