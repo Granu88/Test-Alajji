@@ -1,0 +1,9 @@
+body {
+  background-color: lightgrey
+}
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  color: lightgrey;
+  text-shadow: 0 0 10px black;
+}
